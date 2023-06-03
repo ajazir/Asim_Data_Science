@@ -22,7 +22,7 @@ To run the SQL codes in this repository, you need the following:
 ### Installation
 
 1.	Clone this repository to your local machine using the following command:
-“git clone https://github.com/your-username/e-commerce-logistics-data-analysis-mysql.git “
+“git clone ...... “
 2.	Download the demo_data_dump
 3.	Ensure that you have MySQL installed and running.
 
