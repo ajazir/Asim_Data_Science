@@ -43,4 +43,4 @@ Feel free to explore the repository and use the SQL codes that suit your specifi
 Contributions to this repository are welcome! If you have SQL codes or scripts that you believe would be beneficial for Business data analysis in general and/ or the e-commerce and logistics domains using MySQL, feel free to submit a pull request. Please ensure that your contributions follow the established coding style and best practices.
 
 ### License
-This repository is licensed under the…………. You are free to use, modify, and distribute the code in this repository for commercial or non-commercial purposes. See the LICENSE file for more details.
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for commercial or non-commercial purposes. See the LICENSE file for more details.
